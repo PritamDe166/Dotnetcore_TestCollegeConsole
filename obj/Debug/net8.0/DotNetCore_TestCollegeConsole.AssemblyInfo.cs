@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetCore_TestCollegeConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12db0bee60f7a862fa502ed8487555146e11b124")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetCore_TestCollegeConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetCore_TestCollegeConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

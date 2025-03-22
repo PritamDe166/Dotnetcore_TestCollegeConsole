@@ -51,3 +51,9 @@ C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\obj\Debug\ne
 C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\obj\Debug\net8.0\DotNetCore_TestCollegeConsole.pdb
 C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\obj\Debug\net8.0\DotNetCore_TestCollegeConsole.genruntimeconfig.cache
 C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\obj\Debug\net8.0\ref\DotNetCore_TestCollegeConsole.dll
+C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\obj\Debug\net8.0\DotNetCore_TestCollegeConsole.sourcelink.json
+C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\My Study Projects\DotNet Core\Sample Console App\TestConsoleApp1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
